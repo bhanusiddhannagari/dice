@@ -1,3 +1,3 @@
 # dice
-pyhon "dice.py"
-for executing the code
+>>>pyhon "dice.py"
+# for executing the code
